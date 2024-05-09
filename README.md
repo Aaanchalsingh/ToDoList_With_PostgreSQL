@@ -1,5 +1,5 @@
 
-# PERN ToDo App
+# ToDo App Using POSTGRESQL
 
 This project implements a simple ToDo application using the PERN stack: PostgreSQL, Express.js, React, and Node.js. This app allows you to manage your tasks, mark them as complete, and remove them from your list.
 
@@ -21,7 +21,7 @@ This project implements a simple ToDo application using the PERN stack: PostgreS
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vickytilotia/PERN-ToDo-App.git
+   git clone https://github.com/Aaanchalsingh/PERN-ToDo-App.git
    ```
 
 2. Navigate to the project directory:
@@ -54,9 +54,6 @@ This project implements a simple ToDo application using the PERN stack: PostgreS
 - Create tasks/ todos.
 - Get all details of todos
 - Delete and Update todos.
-
-## SnapShots
-![image](https://github.com/vickytilotia/PERN-ToDo-App/assets/32337899/55fc7f56-1889-473a-908f-2ae49e2fd0c2)
 
 
 ## Contributing
